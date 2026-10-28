@@ -61,7 +61,7 @@ E.V.A. is under active development. Some features may be incomplete or planned f
 
 ## 📜 License
 
-A license has not yet been specified. Check the repository for licensing information before redistributing the project.
+No license is need for this ai voice assistant (E.V.A)  
 
 ---
 
